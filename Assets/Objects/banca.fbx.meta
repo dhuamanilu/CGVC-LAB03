@@ -3,7 +3,17 @@ guid: 5fa3853a3f4fd5944a8c0628481e3248
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_PlasticMoldDryBlast_7495_2K
+    second: {fileID: 2100000, guid: d11e8030ea8983d44a4c95139c007aa1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_WoodFloorAsh_4186_2K
+    second: {fileID: 2100000, guid: 3a0c2351842d4784d9707e89e2bd634c, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
