@@ -243,6 +243,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: a5a4234a56db7544aab4ff4a7b3c5c47, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: -876546973899608171, guid: 75573838cd6d1434cb717b24e6740f36, type: 3}
     - target: {fileID: 919132149155446097, guid: a5a4234a56db7544aab4ff4a7b3c5c47, type: 3}
       propertyPath: m_Name
       value: 3DModel (1)
@@ -1154,6 +1158,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: a5a4234a56db7544aab4ff4a7b3c5c47, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: -876546973899608171, guid: 75573838cd6d1434cb717b24e6740f36, type: 3}
     - target: {fileID: 919132149155446097, guid: a5a4234a56db7544aab4ff4a7b3c5c47, type: 3}
       propertyPath: m_Name
       value: 3DModel (3)
@@ -1263,6 +1271,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: a5a4234a56db7544aab4ff4a7b3c5c47, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: -876546973899608171, guid: 75573838cd6d1434cb717b24e6740f36, type: 3}
     - target: {fileID: 919132149155446097, guid: a5a4234a56db7544aab4ff4a7b3c5c47, type: 3}
       propertyPath: m_Name
       value: 3DModel
@@ -1810,6 +1822,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: a5a4234a56db7544aab4ff4a7b3c5c47, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: fc2dff51ff7765a45abdcef437fa8de0, type: 2}
     - target: {fileID: 919132149155446097, guid: a5a4234a56db7544aab4ff4a7b3c5c47, type: 3}
       propertyPath: m_Name
       value: 3DModel (2)
